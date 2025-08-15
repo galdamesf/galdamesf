@@ -10,13 +10,9 @@
 <div align="center">
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 80%; height:100% " />
 </div> 
-
 </td>
-<td width="30%" align="center">
-
+<td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
   </td>
 </tr>
 </table>
