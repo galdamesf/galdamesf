@@ -1,16 +1,26 @@
 <h1 align="center"> 👋 Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align='center'>
  <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
 <br><br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
-<br><br>
 
-- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
-- 🚚 CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
-<br>
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<!--Intro end-->
 
 
 
