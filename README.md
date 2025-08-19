@@ -1,12 +1,4 @@
-<h1 align="center">
-    <a target="_blank">
-      <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-    </a>
-    𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝐬/&gt; !
-    <a target="_blank">
-      <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-    </a>
-</h1>
+
 <h3 align="center">Desarrollador Full Stack Jr. | Apasionado por la Tecnología</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Profile%20views&color=0e75b6&style=flat" alt="galdamesf" /> </p>
 
@@ -91,4 +83,11 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
 </div>  
  <br/>
+
+
+
+
+![](https://github.com/bhaveshlohana/bhaveshlohana/raw/master/animated-name.gif)
+
+Hello there, I'm Bhavesh Lohana! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
 
