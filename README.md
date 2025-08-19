@@ -1,124 +1,192 @@
-# ¡Hola! 👋 Soy Fernando Galdames
+align="center">
+
+  <a target="_blank">
+
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+
+  </a>
+
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+
+  <a target="_blank">
+
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+
+  </a>
+
+</h1>
+
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+
+
+
+<table>
+
+<tr border="none">
+
+<td width="50%" align="left">
+
+  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+Java;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 80%; height:100% " />
+
+</div> 
+
+</td>
+
+<td width="50%" align="right">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  </td>
+
+</tr>
+
+</table
+
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+
+- :trophy: 2x `ACPC` Finalist.
+
+- :technologist: I love using Software as a solution for every `Problem`.
+
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+
+- :nerd_face: Always `learning new things`.
+
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+
+<br>
+
+
+
+<!--horizontal divider(gradiant)-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+
+  <ul align="center">
+
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+
+  </ul>
+
 </div>
+
+<!--tech stack icons-->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" />
+
+  <a href="https://skillicons.dev">
+
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+
+  </a>
+
 </p>
 
-## 🚀 Sobre mí
 
-**Desarrollador Full Stack Junior** especializado en crear aplicaciones web seguras y escalables. Con experiencia en JavaScript, Python, Java y frameworks modernos, me enfoco en desarrollar soluciones digitales con impacto real.
 
-- 🎓 **Estudiante:** Full Stack Java en Generation Chile (2025)
-- 🎓 **Graduado:** Full Stack Developer en 4Geeks Academy (2024-2025)
-- 💼 **Ubicación:** Santiago, Chile
-- 🌱 **Actualmente trabajando en:** EcoCycle - Plataforma de economía circular
-- 💡 **Apasionado por:** Desarrollo de soluciones sostenibles y tecnologías emergentes
-- 📫 **Contacto:** fernandogaldamesv@gmail.com
 
----
 
-## 🛠️ Stack Tecnológico
+<!-- Connect with me -->
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<!--h2 without bottom border-->
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<div id="user-content-toc">
 
-### Base de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  <ul align="center">
 
-### Herramientas & Metodologías
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens)
-![API REST](https://img.shields.io/badge/-API%20REST-FF6C37?style=flat-square)
-![SCRUM](https://img.shields.io/badge/-SCRUM-009FDA?style=flat-square)
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
 
----
-
-## 💼 Experiencia Profesional
-
-### 🌱 **EcoCycle** - *Full Stack Developer*
-**Junio 2025 - Presente**
-- Desarrollo de plataforma digital para economía circular en Chile
-- **Tecnologías:** Java, Spring Boot, PostgreSQL
-- **Características:** Mapa interactivo, sistema de recompensas, matching inteligente
-
-### ☕ **Cafetería Tierra y Grano** - *Full Stack Developer (Freelance)*
-**Noviembre 2024 - Presente**
-- Desarrollo y mantenimiento de tienda online
-- Implementación de autenticación JWT
-- Gestión de base de datos MySQL
-- **Tecnologías:** JavaScript, React, MySQL
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🐾 [Patitas Unidas](https://github.com/galdamesf/patitas-unidas)
-*Aplicación web para rastreo de mascotas perdidas*
-
-**Características principales:**
-- Sistema de autenticación JWT
-- Integración de códigos QR y geolocalización  
-- Gestión de perfiles personalizados
-- Base de datos MySQL optimizada
-
-**Stack:** JavaScript, React, Python (Flask), MySQL
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galdamesf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdamesf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galdamesf&theme=tokyonight" alt="galdamesf" />
-</div>
-
----
-
-## 🎓 Certificaciones
-
-- **Fundamentos de JavaScript** - Platzi (19 hrs)
-- **Fundamentos de Programación e Ingeniería de Software** - Platzi  
-- **Fundamentos de Node.js** - Platzi
-
----
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandogaldamesv)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galdamesf)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandogaldamesv@gmail.com)
+  </ul>
 
 </div>
 
----
+
+
+<!--icons and links-->
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+
+  
+
+</p>
+
+
+
+
+
+<!--profile visit count-->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  **"Desarrollando soluciones digitales con impacto real"**
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  
+
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
+  
+
 </div>
+
+
+
+
+
+<!--horizontal divider(gradiant)-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
