@@ -76,6 +76,5 @@
 
 
 
-[![Fernando Galdames - Fullstack Developer](./assets/fernando-header.png)](https://github.com/tu-usuario)
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
