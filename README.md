@@ -75,6 +75,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+Java;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" />
+</p>
 
