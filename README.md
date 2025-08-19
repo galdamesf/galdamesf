@@ -32,9 +32,6 @@
 
 - 💡 Me encanta contribuir al desarrollo de soluciones tecnológicas creativas e innovadoras.
 
-- 🔗 Me encantaría conectar con profesionales del sector para compartir conocimientos y explorar oportunidades en desarrollo web. ¡Hablemos!
-
-- 🎯 Estoy actualmente abierto a nuevas `oportunidades laborales` en desarrollo web.
 
 ### 🎭 Más sobre mí:
 - 👨‍🍳 Me encanta cocinar - llevo más de 10 años en la industria gastronómica
