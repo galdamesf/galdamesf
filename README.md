@@ -103,3 +103,7 @@
   <p>💡 <strong>"Mi enfoque está en optimizar procesos y crear soluciones tecnológicas innovadoras"</strong></p>
   <p>🚀 <strong>¡Abierto a nuevas oportunidades y colaboraciones!</strong></p>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+</div>
