@@ -11,15 +11,15 @@
 <h3 align="center">Desarrollador Full Stack Jr. | Apasionado por la Tecnología</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Profile%20views&color=0e75b6&style=flat" alt="galdamesf" /> </p>
 
-<table>
-<tr border="none">
-<td width="50%" align="left">
-  <p align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</p>
-</td>
-</tr>
-</table
+<div align="center">
+  <table>
+    <tr border="none">
+      <td>
+        <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
