@@ -1,8 +1,12 @@
+<p align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</p>
+
 <h1 align="center">
     <a target="_blank">
       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
     </a>
-    𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+    𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝐬/&gt; !
     <a target="_blank">
       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
     </a>
@@ -19,7 +23,7 @@
 </div> 
 </td>
 <td width="50%" align="right">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  
   </td>
 </tr>
 </table
@@ -29,13 +33,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- Soy un `desarrollador web full stack jr` con experiencia en JavaScript, Python, Java y frameworks modernos.
-- Me especializo en crear aplicaciones seguras y escalables, desde la base de datos hasta el frontend.
-- Me adapto con rapidez a nuevos entornos, con enfoque en la `mejora continua`.
-- Apasionado por desarrollar `soluciones digitales` con impacto real.
-- Actualmente estoy trabajando en `EcoCycle`, un proyecto colaborativo para la economía circular.
-- Anteriormente fui `Desarrollador Full Stack Freelance` en Cafetería Tierra y Grano.
-- Estudié `Full Stack Java` en Generation Chile y `Full Stack Developer` en 4Geeks Academy.
+- [cite_start]Soy un `desarrollador web full stack jr` con experiencia en JavaScript, Python, Java y frameworks modernos[cite: 8].
+- [cite_start]Me especializo en crear aplicaciones seguras y escalables, desde la base de datos hasta el frontend[cite: 9].
+- [cite_start]Me adapto con rapidez a nuevos entornos, con enfoque en la `mejora continua`[cite: 10].
+- [cite_start]Apasionado por desarrollar `soluciones digitales` con impacto real[cite: 11].
+- [cite_start]Actualmente estoy trabajando en `EcoCycle`, un proyecto colaborativo para la economía circular[cite: 20, 21].
+- [cite_start]Anteriormente fui `Desarrollador Full Stack Freelance` en Cafetería Tierra y Grano[cite: 22].
+- [cite_start]Estudié `Full Stack Java` en Generation Chile y `Full Stack Developer` en 4Geeks Academy[cite: 37, 38].
 
 <br>
 
