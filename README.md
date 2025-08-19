@@ -1,6 +1,7 @@
 
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Fernando+Galdames;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">Desarrollador Full Stack Jr. | Apasionado por la Tecnología</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Profile%20views&color=0e75b6&style=flat" alt="galdamesf" /> </p>
@@ -81,4 +82,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" />
 </p>
+
+
+
+
+
+
 
