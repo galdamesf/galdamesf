@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 </div>  
 
 <h3 align="center">Desarrollador Full Stack Jr. | Apasionado por la Tecnología</h3>
@@ -79,11 +79,3 @@
 
 
 
-
-
-
-
-
-
-
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
