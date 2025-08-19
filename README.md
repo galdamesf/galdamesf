@@ -76,7 +76,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+Java;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fernando+Galdames+Vilches;Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo;" alt="Typing SVG" />
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" />
