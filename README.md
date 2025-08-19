@@ -1,124 +1,153 @@
-# ¡Hola! 👋 Soy Fernando Galdames
+# **👋 ¡Hola! Soy Fernando Galdames**
+
+**🌟 Tecnologías en mi Radar**
+
+**🔭 Explorando:**
+* 🌱 **Economía Circular Digital** - Plataformas sostenibles con impacto social
+* ⚛️ **React Advanced** - Hooks avanzados y optimización de rendimiento
+* 🐳 **Docker & Containerización** - Despliegue eficiente de aplicaciones
+* 📱 **Progressive Web Apps** - Experiencias móviles nativas
+* 🔒 **Autenticación JWT** - Seguridad robusta en aplicaciones web
+
+**🌐 Mi Especialidad: Full Stack Development & Soluciones Digitales**
+
+**🔧 Stack Tecnológico Completo:**
+
+| **Backend** | **Frontend** | **Database** |
+|-------------|--------------|--------------|
+| 🟢 Node.js | ⚛️ React.js | 🐬 MySQL |
+| 🐍 Python (Flask) | 🎨 HTML5/CSS3 | 🐘 PostgreSQL |
+| ☕ Java (Spring Boot) | 🅱️ Bootstrap | 🔍 API REST |
+| 🔐 JWT Authentication | 📱 Responsive Design | 📊 Database Design |
+| 🌐 API Development | ⚡ JavaScript ES6+ | 💾 Data Modeling |
+
+**🚀 Sobre Mí**
+
+🎓 **Full Stack Developer** (4Geeks Academy, 2024-2025)  
+🔄 **Estudiante Bootcamp Full Stack Java** en Generation Chile  
+💼 **Desarrollador Freelance** para Cafetería Tierra y Grano  
+🌱 **Colaborador** en EcoCycle - Economía Circular Chile  
+🌍 **Santiago, Chile** 🇨🇱
+
+*"Transformando ideas en código que genera impacto real en la sociedad"*
+
+**💻 Mi Stack Tecnológico**
+
+**🔥 Desarrollando Actualmente**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**🌐 Experiencia en Desarrollo Web**
+
+| **Backend & Databases** | **Frontend** | **Tools & Methods** |
+|--------------------------|--------------|---------------------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![SCRUM](https://img.shields.io/badge/-SCRUM-009FDA?style=flat) |
+| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![Responsive](https://img.shields.io/badge/-Responsive-FF6B6B?style=flat) | ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) |
+
+**📊 GitHub Analytics**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+Java;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galdamesf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdamesf&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" />
-</p>
+**🚀 Mis Proyectos Destacados**
 
-## 🚀 Sobre mí
+### 🐾 **[Patitas Unidas](https://github.com/galdamesf/patitas-unidas)** - *Sistema de Rastreo de Mascotas*
+🔹 **Stack:** React, Python (Flask), MySQL  
+🔹 **Características:** Autenticación JWT, Códigos QR, Geolocalización  
+🔹 **Impacto:** Plataforma para reunir mascotas perdidas con sus familias
 
-**Desarrollador Full Stack Junior** especializado en crear aplicaciones web seguras y escalables. Con experiencia en JavaScript, Python, Java y frameworks modernos, me enfoco en desarrollar soluciones digitales con impacto real.
+### 🌱 **[EcoCycle](https://github.com/galdamesf/ecocycle)** - *Plataforma de Economía Circular*
+🔹 **Stack:** Java, Spring Boot, PostgreSQL  
+🔹 **Características:** Mapa interactivo, Sistema de recompensas, Matching inteligente  
+🔹 **Misión:** Conectar ciudadanos, municipios y empresas para un Chile más sostenible
 
-- 🎓 **Estudiante:** Full Stack Java en Generation Chile (2025)
-- 🎓 **Graduado:** Full Stack Developer en 4Geeks Academy (2024-2025)
-- 💼 **Ubicación:** Santiago, Chile
-- 🌱 **Actualmente trabajando en:** EcoCycle - Plataforma de economía circular
-- 💡 **Apasionado por:** Desarrollo de soluciones sostenibles y tecnologías emergentes
-- 📫 **Contacto:** fernandogaldamesv@gmail.com
+### ☕ **[Tierra y Grano E-commerce](https://github.com/galdamesf/tierra-y-grano)** - *Tienda Online*
+🔹 **Stack:** JavaScript, React, MySQL  
+🔹 **Funcionalidades:** Catálogo de productos, Carrito de compras, Gestión de pedidos  
+🔹 **Optimización:** Rendimiento y seguridad empresarial
 
----
+**🛣️ Mi Trayectoria Profesional**
 
-## 🛠️ Stack Tecnológico
+**💼 Experiencia Profesional**
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**🌱 Full Stack Developer - EcoCycle (Proyecto Colaborativo)**  
+*Junio 2025 - Presente*
+🔹 **Desarrollo Backend Java** - Arquitectura Spring Boot escalable  
+🔹 **Base de datos PostgreSQL** - Diseño e implementación de modelos relacionales  
+🔹 **Funcionalidades avanzadas** - Mapas interactivos y sistema de matching  
+🔹 **Colaboración en equipo** - Metodología SCRUM y desarrollo ágil
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+**☕ Desarrollador Full Stack Freelance - Cafetería Tierra y Grano**  
+*Noviembre 2024 - Presente*
+🔹 **Desarrollo Frontend React** - Interfaz responsiva y optimizada  
+🔹 **Implementación JWT** - Sistema de autenticación seguro  
+🔹 **Gestión MySQL** - Base de datos para productos, clientes y pedidos  
+🔹 **Mejora de rendimiento** - Optimización de carga y experiencia de usuario
 
-### Base de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**🛠️ Experiencia Técnica en Desarrollo Web:**
+* **Frameworks Frontend:** React.js, HTML5/CSS3, Bootstrap
+* **Backend Technologies:** Node.js, Python Flask, Java Spring Boot
+* **Base de Datos:** MySQL, PostgreSQL, Diseño de esquemas
+* **Certificaciones:** Fundamentos de JavaScript (Platzi), Node.js (Platzi)
 
-### Herramientas & Metodologías
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens)
-![API REST](https://img.shields.io/badge/-API%20REST-FF6C37?style=flat-square)
-![SCRUM](https://img.shields.io/badge/-SCRUM-009FDA?style=flat-square)
+**🎯 Objetivos 2025**
 
----
+| **🎯 Meta** | **📅 Timeline** | **🔥 Estado** |
+|-------------|-----------------|---------------|
+| ✅ Dominar React & Spring Boot | Marzo 2025 | 🟡 En progreso |
+| 🚀 Completar EcoCycle MVP | Abril 2025 | 🟡 En desarrollo |
+| 💼 Posición como Full Stack Jr | Junio 2025 | ⚪ Objetivo |
+| 🌟 Contribuir Open Source | Agosto 2025 | ⚪ Aspiracional |
 
-## 💼 Experiencia Profesional
+**🧠 ¿Qué me hace único?**
 
-### 🌱 **EcoCycle** - *Full Stack Developer*
-**Junio 2025 - Presente**
-- Desarrollo de plataforma digital para economía circular en Chile
-- **Tecnologías:** Java, Spring Boot, PostgreSQL
-- **Características:** Mapa interactivo, sistema de recompensas, matching inteligente
+```javascript
+const fernandoGaldames = {
+    background: "Full Stack Development + Experiencia práctica",
+    currentFocus: "Aplicaciones web escalables con impacto social",
+    
+    fortalezas: [
+        "🔍 Desarrollo de soluciones completas end-to-end",
+        "🏢 Experiencia en proyectos reales (E-commerce, SaaS)",
+        "🌐 Conocimiento sólido en arquitectura web moderna",
+        "💬 Adaptabilidad rápida a nuevos frameworks",
+        "📊 Enfoque en optimización y seguridad de aplicaciones"
+    ],
+    
+    vision: "Crear tecnología que resuelva problemas reales y genere impacto positivo",
+    objetivo: "Ser referente en desarrollo Full Stack con enfoque sostenible",
+    
+    aprendiendo: ["Java", "Spring Boot", "React Advanced", "Docker"],
+    proximoPaso: "Liderar proyectos que combinen tecnología e impacto social"
+};
 
-### ☕ **Cafetería Tierra y Grano** - *Full Stack Developer (Freelance)*
-**Noviembre 2024 - Presente**
-- Desarrollo y mantenimiento de tienda online
-- Implementación de autenticación JWT
-- Gestión de base de datos MySQL
-- **Tecnologías:** JavaScript, React, MySQL
+console.log("🚀 ¡Listo para transformar ideas en código!");
+```
 
----
+**📞 ¡Conectemos!**
 
-## 🚀 Proyectos Destacados
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandogaldamesv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernandogaldamesv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/galdamesf)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/56937236159)
 
-### 🐾 [Patitas Unidas](https://github.com/galdamesf/patitas-unidas)
-*Aplicación web para rastreo de mascotas perdidas*
+**📍 Santiago, Chile** | **🌐 Español (Nativo) | Inglés (Intermedio)** | **💻 Disponible para oportunidades remotas e híbridas**
 
-**Características principales:**
-- Sistema de autenticación JWT
-- Integración de códigos QR y geolocalización  
-- Gestión de perfiles personalizados
-- Base de datos MySQL optimizada
+**💭 "De la idea al código, del código al impacto"**
 
-**Stack:** JavaScript, React, Python (Flask), MySQL
-
----
-
-## 📊 Estadísticas de GitHub
+*Transformando problemas cotidianos en soluciones digitales elegantes y escalables*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galdamesf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdamesf&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=galdamesf&color=blue&style=flat" alt="Profile views" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galdamesf&theme=tokyonight" alt="galdamesf" />
-</div>
-
----
-
-## 🎓 Certificaciones
-
-- **Fundamentos de JavaScript** - Platzi (19 hrs)
-- **Fundamentos de Programación e Ingeniería de Software** - Platzi  
-- **Fundamentos de Node.js** - Platzi
-
----
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandogaldamesv)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galdamesf)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandogaldamesv@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  **"Desarrollando soluciones digitales con impacto real"**
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+**⚡ Fun Fact del Día**
+> "Cada línea de código es una oportunidad de hacer el mundo un poco mejor" 🌍✨
