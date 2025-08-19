@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer)](https://git.io/typing-svg)
-<span/>
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
 
 <h3 align="center">Desarrollador Full Stack Jr. | Apasionado por la Tecnología</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Profile%20views&color=0e75b6&style=flat" alt="galdamesf" /> </p>
@@ -73,10 +74,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-</div>  
- <br/>
 
 
 
@@ -89,3 +86,4 @@
 
 
 
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
