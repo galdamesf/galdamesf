@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/galdamesf/galdamesf/raw/master/animated-name.gif" alt="Fernando Galdames" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer)](https://git.io/typing-svg)
+<span/>
 
 <h3 align="center">Desarrollador Full Stack Jr. | Apasionado por la Tecnología</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Profile%20views&color=0e75b6&style=flat" alt="galdamesf" /> </p>
@@ -78,3 +77,15 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
 </div>  
  <br/>
+
+
+
+
+
+
+
+
+
+
+
+
