@@ -1,9 +1,8 @@
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://galdamesf.github.io)
 
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+Fernando+Galdames;Desarrollador+Full+Stack+Jr;Apasionado+por+la+tecnología)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Fernando+Galdames;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Profile%20views&color=0e75b6&style=flat" alt="galdamesf" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" /> </p>
 
 <div align="center">
   <table>
@@ -15,25 +14,33 @@
   </table>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a5-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- 💻 Soy `Desarrollador Full Stack Jr` con experiencia en JavaScript, Python y gestión de bases de datos MySQL.
 
-- :trophy: 2x `ACPC` Finalist.
+- 🚀 Poseo amplios conocimientos en el desarrollo de aplicaciones web, optimización de bases de datos y diseño de interfaces intuitivas.
 
-- :technologist: I love using Software as a solution for every `Problem`.
+- 📚 Actualmente estoy complementando mi formación con estudios en `Java` y `Spring Boot`, fortaleciendo mis habilidades en programación.
 
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- 🎯 Mi objetivo es siempre optimizar procesos y ofrecer soluciones eficientes a los desafíos técnicos.
 
-- :student: I'm currently learning `Computer Science` and `Software Engineering`.
+- 🤝 Disfruto trabajando en entornos colaborativos y dinámicos donde pueda aplicar mis conocimientos.
 
-- :nerd_face: Always `learning new things`.
+- 🌱 Siempre `aprendiendo cosas nuevas` y creciendo profesionalmente.
 
-- :thinking: I'm currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- 💡 Me encanta contribuir al desarrollo de soluciones tecnológicas creativas e innovadoras.
 
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 🔗 Me encantaría conectar con profesionales del sector para compartir conocimientos y explorar oportunidades en desarrollo web. ¡Hablemos!
+
+- 🎯 Estoy actualmente abierto a nuevas `oportunidades laborales` en desarrollo web.
+
+### 🎭 Más sobre mí:
+- 👨‍🍳 Me encanta cocinar - llevo más de 10 años en la industria gastronómica
+- ✈️ Disfruto mucho de los viajes y de un buen libro
+- 🎬 Me encanta ir al cine
+- 🎲 Jugar juegos de mesa es algo que hago habitualmente
 
 <br>
 
@@ -43,22 +50,28 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Stack Tecnológico 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,java,spring,html,css,postman,aws,docker,postgres&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,react,py,flask,java,spring,mysql,postgresql,html,css,nodejs,postman&perline=6" />
   </a>
 </p>
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Siempre+optimizando+procesos;Creando+soluciones+eficientes;Aprendiendo+Java+y+Spring+Boot;¡Conectemos+y+colaboremos!" alt="Typing SVG" />
+</div>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conecta conmigo 🤝</h2></summary>
   </ul>
 </div>
 
@@ -74,17 +87,19 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fernando+Galdames+Vilches;Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo;" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=galdamesf&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galdamesf&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdamesf&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" />
-</p>
 
+---
 
-
-
-
-
-
+<div align="center">
+  <p>💡 <strong>"Mi enfoque está en optimizar procesos y crear soluciones tecnológicas innovadoras"</strong></p>
+  <p>🚀 <strong>¡Abierto a nuevas oportunidades y colaboraciones!</strong></p>
+</div>
