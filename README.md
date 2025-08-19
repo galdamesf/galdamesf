@@ -1,6 +1,6 @@
-<div align="center">
+
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-</div>  
+
 
 <h3 align="center">Desarrollador Full Stack Jr. | Apasionado por la Tecnología</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Profile%20views&color=0e75b6&style=flat" alt="galdamesf" /> </p>
