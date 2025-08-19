@@ -59,11 +59,6 @@
 </p>
 
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Siempre+optimizando+procesos;Creando+soluciones+eficientes;Aprendiendo+Java+y+Spring+Boot;¡Conectemos+y+colaboremos!" alt="Typing SVG" />
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
