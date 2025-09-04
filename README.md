@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 💻 Soy `Desarrollador Full Stack` con experiencia en JavaScript, Python y gestión de bases de datos MySQL.
+- 💻 Soy `Desarrollador Full Stack` con experiencia en TypeScript, Python y gestión de bases de datos SQL.
 
 - 🚀 Poseo amplios conocimientos en el desarrollo de aplicaciones web, optimización de bases de datos y diseño de interfaces intuitivas.
 
