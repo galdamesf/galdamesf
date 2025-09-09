@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://galdamesf.github.io)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+Fernando+Galdames;Desarrollador+Full+Stack+Jr;Apasionado+por+la+tecnología)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+Fernando+Galdames;Desarrollador+Full+Stack;Apasionado+por+la+tecnología)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galdamesf&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="galdamesf" /> </p>
 
